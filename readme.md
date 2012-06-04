@@ -1,5 +1,5 @@
 # image snap
-Captures Image from iSnap camera using nodejs.
+Captures Image from iSight camera using nodejs.
 # example
 	var imagesnap = require('imagesnap');
 	var fs = require('fs');
