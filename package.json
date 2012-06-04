@@ -1,0 +1,17 @@
+{
+  "author": "Julian Gautier <julian.gautier@alumni.neumont.edu>",
+  "name": "imagesnap",
+  "description": "Capture Images from webcam with nodejs",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jgautier/imagesnap.js.git"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
